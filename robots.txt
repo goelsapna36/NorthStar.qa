@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://northstar-qa-development.onrender.com/sitemap.xml
